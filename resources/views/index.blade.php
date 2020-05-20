@@ -126,8 +126,8 @@
                         <div class="single-icon">
                             <i class="ti-layout-slider-alt " aria-hidden="true"></i>
                         </div>
-                        <h4>Mudah di Ubah</h4>
-                        <p></p>
+                        <h4>Professional</h4>
+                        <p>Kamu memiliki alamat website sendiri dengan alamat namamu.publikasi.tech, kamu bisa tentukan sesederhana mungkin dan se professional mungkin!</p>
                     </div>
                 </div>
                 <!-- Single Special Area -->
